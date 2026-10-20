@@ -5,7 +5,7 @@
 [![Emby Server](https://img.shields.io/badge/Emby%20Server-4.10.x-0076bb)](INSTALL.md)
 [![.NET Standard](https://img.shields.io/badge/.NET%20Standard-2.0-512BD4)](https://github.com/Titlovi/titlovi-unified/blob/main/src/Emby/Emby.Titlovi.csproj)
 [![Latest release](https://img.shields.io/github/v/release/Titlovi/titlovi-emby?label=release&color=0076bb)](https://github.com/Titlovi/titlovi-emby/releases/latest)
-[![DLL downloads](https://img.shields.io/github/downloads/Titlovi/titlovi-emby/Emby.Titlovi.dll?label=DLL%20downloads&color=4c1)](https://github.com/Titlovi/titlovi-emby/releases)
+[![DLL downloads](https://img.shields.io/github/downloads/Titlovi/titlovi-emby/latest/Emby.Titlovi.dll?label=DLL%20downloads%20(latest)&color=4c1)](https://github.com/Titlovi/titlovi-emby/releases)
 
 **Search and download subtitles directly in Emby Server 4.10.x.**
 
