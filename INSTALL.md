@@ -2,8 +2,6 @@
 
 [English](INSTALL.md) · [Hrvatski](docs/hr/INSTALL.md) · [Српски](docs/sr-Cyrl/INSTALL.md)
 
-> **Not yet published.** Version 2.0.0.0 is being prepared; the following steps apply after an approved release becomes available.
-
 ## Requirements
 
 - Emby Server **4.10.x**.

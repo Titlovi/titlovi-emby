@@ -2,8 +2,6 @@
 
 [English](../../INSTALL.md) · [Hrvatski](INSTALL.md) · [Српски](../sr-Cyrl/INSTALL.md)
 
-> **Još nije objavljeno.** Verzija 2.0.0.0 je u pripremi; upute vrijede nakon objave odobrenog izdanja.
-
 ## Zahtjevi
 
 - Emby Server **4.10.x**.
