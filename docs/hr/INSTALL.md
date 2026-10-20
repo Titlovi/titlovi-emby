@@ -14,7 +14,7 @@
 2. Provjerite SHA-256. U PowerShellu izvršite `Get-FileHash -Algorithm SHA256 .\Emby.Titlovi.dll` i usporedite rezultat s datotekom `SHA256SUMS.txt`.
 3. Zaustavite Emby Server. Pri nadogradnji spremite stari DLL i konfiguraciju u **zasebnu mapu izvan aktivne mape dodataka**.
 4. Pronađite **stvarnu mapu dodataka Emby Servera**. Putanja ovisi o instalaciji i postavkama podatkovne mape.
-5. U nju kopirajte novi `Emby.Titlovi.dll`, zamjenjujući samo stari Titlovi DLL ako postoji. Dodatni Common/Core DLL nije potreban.
+5. U nju kopirajte novi `Emby.Titlovi.dll`, zamjenjujući samo stari Titlovi DLL ako postoji.
 6. Pokrenite Emby i potvrdite da se **Titlovi.com** nalazi među instaliranim dodacima.
 7. Konfigurirajte Titlovi.com račun i postavke. Pretražite i preuzmite titl za film ili epizodu.
 
