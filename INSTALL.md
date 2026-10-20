@@ -14,7 +14,7 @@
 2. Verify the SHA-256 digest. In PowerShell run: `Get-FileHash -Algorithm SHA256 .\Emby.Titlovi.dll` and compare with `SHA256SUMS.txt`.
 3. Stop Emby Server. If updating, back up the installed `Emby.Titlovi.dll` and its configuration in a **separate folder outside** the active plugins directory.
 4. Find the **actual Emby plugins directory** for your server. Its location depends on your installation and data-directory settings; do not assume the application install directory is the same.
-5. Copy the new `Emby.Titlovi.dll` into that plugins directory, replacing only the old Titlovi plugin DLL if present. Do not install an extra Common/Core DLL.
+5. Copy the new `Emby.Titlovi.dll` into that plugins directory, replacing only the old Titlovi plugin DLL if present.
 6. Start Emby and confirm **Titlovi.com** appears under installed plugins.
 7. Configure your Titlovi.com credentials and preferences. Search for and download a subtitle for a film or episode.
 
