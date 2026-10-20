@@ -11,8 +11,6 @@
 
 **[⬇ Преузми најновије издање](https://github.com/Titlovi/titlovi-emby/releases/latest)** · [Упутство за инсталацију](INSTALL.md) · [Изворни код](https://github.com/Titlovi/titlovi-unified)
 
-> **Статус до првог објављивања:** Званична верзија 2.0.0.0 још је у припреми и није доступна за преузимање. Ознаке верзије и броја преузимања аутоматски ће приказивати податке после објављивања.
-
 ## Преузимање
 
 Отворите **[GitHub Releases](https://github.com/Titlovi/titlovi-emby/releases)** и преузмите **`Emby.Titlovi.dll`** из најновијег компатибилног издања. За проверу преузетог DLL-а служи **`SHA256SUMS.txt`**.

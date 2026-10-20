@@ -11,8 +11,6 @@
 
 **[⬇ Download latest release](https://github.com/Titlovi/titlovi-emby/releases/latest)** · [Installation guide](INSTALL.md) · [Source code](https://github.com/Titlovi/titlovi-unified)
 
-> **Status (until first publication):** Official version 2.0.0.0 is being prepared and is not yet available to download. Release/download badges will become active after publication.
-
 ## Download
 
 Open **[GitHub Releases](https://github.com/Titlovi/titlovi-emby/releases)** and download **`Emby.Titlovi.dll`** from the latest compatible release. You can also download **`SHA256SUMS.txt`** to verify the file.
