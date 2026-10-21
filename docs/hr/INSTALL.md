@@ -5,7 +5,7 @@
 ## Zahtjevi
 
 - Emby Server **4.10.x**.
-- Titlovi.com račun s API pristupom.
+- Titlovi.com korisnički račun.
 - Emby **DLL**, a ne Jellyfin ZIP ili GitHubova arhiva „Source code”.
 
 ## Instalacija / nadogradnja

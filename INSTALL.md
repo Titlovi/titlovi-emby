@@ -5,7 +5,7 @@
 ## Requirements
 
 - Emby Server **4.10.x**.
-- A Titlovi.com account with API access.
+- A Titlovi.com account.
 - The Emby **DLL**, not the Jellyfin ZIP or GitHub's “Source code” archive.
 
 ## Installation / upgrade

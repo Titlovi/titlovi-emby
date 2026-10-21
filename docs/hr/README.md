@@ -40,7 +40,7 @@ Rezultati prikazuju stvarni jezik titla i ne spajaju različite Titlovi medijske
 ## Zahtjevi i poznata ograničenja
 
 - **Emby Server 4.10.x**; druge verzije nisu potvrđene.
-- Titlovi.com račun s potrebnim pristupom API-ju.
+- Titlovi.com korisnički račun.
 - **Ručna instalacija** — nema Emby kataloga dodataka ni automatskog ažuriranja.
 - **Poznato ograničenje Embyja 4.10:** pri pretraživanju alternativnog jezika nastavak naziva spremljene datoteke može odgovarati traženom jeziku, a ne stvarnom jeziku titla. Rezultati pretrage i dalje navode stvarni jezik.
 

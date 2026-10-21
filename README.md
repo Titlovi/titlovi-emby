@@ -40,7 +40,7 @@ Search results preserve the actual subtitle language and keep different Titlovi 
 ## Requirements and known limitations
 
 - **Emby Server 4.10.x**; compatibility with other server versions has not been confirmed.
-- A Titlovi.com account with the required API access.
+- A Titlovi.com account.
 - **Manual installation only** — no Emby plugin repository or automatic-update feed.
 - **Known Emby 4.10 limitation:** for alternative-language searches, the saved subtitle filename suffix may use the requested language rather than the actual returned language. The plugin still identifies the correct language in search results.
 
